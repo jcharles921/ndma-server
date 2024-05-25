@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jboss-logging-3.4.1.Final-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jaxb-api-2.3.1.jar.zip"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/postgresql-42.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jsp-api-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/javassist-3.23.1-GA.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jandex-2.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/hibernate-core-5.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/hibernate-commons-annotations-5.0.4.Final.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/byte-buddy-1.8.17.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/bouboune/Documents/AUCA/WebTech/jars/jar_files/rmi-1.0.1.wso2v1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
